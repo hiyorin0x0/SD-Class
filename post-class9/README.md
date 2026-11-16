@@ -25,7 +25,7 @@ Calling `description()` on a `:SponsoredConcert` executes `AbstractShow#descript
 ## Project Structure
 
 ```
-lab9/
+post-class9/
 ├── pom.xml
 ├── README.md
 └── src/
